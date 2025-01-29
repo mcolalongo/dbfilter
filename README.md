@@ -11,3 +11,5 @@ For Linux terminal and similar on MacOS run:
 python DBfilter.py
 ```
 
+*Follow the instruction through the CLI* 
+
