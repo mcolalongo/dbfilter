@@ -7,8 +7,7 @@ Place the script in the same folder where the *password.csv* file is located.
 
 For Linux terminal and similar on MacOS run:
 
-shell
-```
+```shell
 python DBfilter.py
 ```
 
